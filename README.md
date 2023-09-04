@@ -1,52 +1,10 @@
-# Baystation
-Baystation
-Website - Discord
+# BabySitterApp
 
-Hi there. Welcome to Baystation. We're a Space Station 13 server and community, and one of the oldest around. You can check out our archives if you're looking for something old but, otherwise, here's our current active project list.
+The babysitter app helps a babysitter to manage her clients. See all details information, can add/remove client.
 
-Baystation
-Wiki - Issues
+A part-time babysitter wants you to help her implement some way of organizing and managing her employers’ information where it would be easy to add and remove new employers and also see existing employers. Each employer is a person with a name, an address, a phone number and at least one child. Each employer also provides a person, who is an emergency contact and will have a name, phone number and relationship to the client. Each child’s name, age, special health information and interests should also be noted.
 
-License: AGPL v3 CodeQL CI Status codebeat badge
+Installation
 
-The actual space station 13 game server.
 
-Atlas -- View Here
-Wiki - Issues - Projects
-
-License: ISC v3 CodeQL codebeat badge
-
-A map for baystation's narrative world.
-
-In progress.
-
-Arrivals
-Wiki - Issues - Projects
-
-License: ISC v3 CodeQL codebeat badge
-
-A new joinee greeting and IP trust gateway.
-
-In progress.
-
-Warden
-Wiki - Issues - Projects
-
-License: ISC v3 CodeQL codebeat badge
-
-A packet inspection reverse proxy for the byond protocol.
-
-In progress.
-
-ExCom
-Wiki - Issues - Projects
-
-License: ISC v3 CodeQL codebeat badge
-
-A discord bot for game server integration, with user and administrative commands.
-
-In progress.
-
-Right now we're still in testing and sandboxing and, besides the game server, are probably not ourselves running exactly what we publish here.
-
-Sorry about that.
+the babysitter app helps a babysitter to manage her clients. See all details information, can add/remove client.
