@@ -1,10 +1,14 @@
-# BabySitterApp
+An interface for those with children and local child care providers, Babysitter aims to connect those in need with those who care. Parents can schedule and post babysitting jobs online and find qualified, vetted, and experienced babysitters in their area. Browse caregiver profiles, read reviews, and communicate directly with caregivers to find the best one for the job.
 
-The babysitter app helps a babysitter to manage her clients. See all details information, can add/remove client.
+Caregivers can create a profile, browse, and apply for available babysitting jobs. Over time, caregivers can build a portfolio of completed work with positive reviews to build brand and reputation in their community enabling them to secure more jobs and higher pay..
 
-A part-time babysitter wants you to help her implement some way of organizing and managing her employers’ information where it would be easy to add and remove new employers and also see existing employers. Each employer is a person with a name, an address, a phone number and at least one child. Each employer also provides a person, who is an emergency contact and will have a name, phone number and relationship to the client. Each child’s name, age, special health information and interests should also be noted.
+Motivation
+As a father of 3 small children and living in a small college town, it's always a challenge to find childcare. You need a way to expand the number of people you know. At the same time, those who want to babysit need to do the same to increase their income and job quality. They say, "quality comes out quantity."
 
-Installation
+This app should help these two groups of peole find each other much easier.
 
+Build status
+Heroku App
+This app has been deployed to Heroku here. Please see the login instructions on the web application to view login information.
 
-the babysitter app helps a babysitter to manage her clients. See all details information, can add/remove client.
+Screenshots
